@@ -1,0 +1,8 @@
+# ninja log v7
+9	252	8022702758901370	CMakeFiles/realtime_analysis.dir/src/main.cpp.obj	bf69582ca367bfbc
+49	19240	8022709761229108	CMakeFiles/realtime_analysis.dir/src/websocket_client.cpp.obj	eb9934ab37c4a70c
+28	558	8022718816451753	build.ninja	99badcd7cfdc30c1
+28	558	8022718816251584	C:/Users/VAISHNAVI MISHRA/OneDrive/Desktop/realtime_analysis/build/cmake_install.cmake	99badcd7cfdc30c1
+19248	20253	8022709953259668	realtime_analysis.exe	f876bc6cd5125ea7
+72	19503	8022718909670539	CMakeFiles/realtime_analysis.dir/src/websocket_client.cpp.obj	eb9934ab37c4a70c
+19507	20396	8022719104006337	realtime_analysis.exe	306749f4acec392e
